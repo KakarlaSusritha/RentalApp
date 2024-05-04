@@ -6,8 +6,8 @@ Rental Application has 4 smart contracts namely,
 1. DataModel.sol has all declarations of structures and variables.<br /> 
 2. GetSet.sol has functions that set and get values.<br />
 3. Rental.sol has functions that are accessible by either admin, owner or tenant.<br />
-4. Migration.sol ensures that each migration is only performed once by keeping track of the contracts that have been put on the blockchain.<br />
-Check master branch for code.<br />
+4. Migration.sol ensures that each migration is only performed once by keeping track of the contracts that have been put on the blockchain.<br /><br />
+*Check master branch for code.*<br />
 ### Steps:
 1. Create a folder called rentalApp. 
 2. In the directory, initiate truffle <br />command: `truffle init`
